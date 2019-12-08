@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3366/partmall_user
+    password: 0928gaoming@
+    username: root
+
+flyway:
+  user: root
+  url: jdbc:mysql://localhost:3366/partmall_user
+  password: 0928gaoming@

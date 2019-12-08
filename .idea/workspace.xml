@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutomaticModuleUnloader">
+    <loaded-modules>
+      <module name="partmall" />
+      <module name="user" />
+    </loaded-modules>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="182b23a6-7d7d-4350-89b3-4db7d2021ac2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="partmall_user@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="partmall_user@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="partmall_user@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="partmall_user: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UhTVvSTgwuUmnWjDgJsntZl6qQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/user/user-service-impl/src/main/resources/db.migration" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Program\ideaproject\partmall\user\user-service-impl\src\main\resources" />
+      <recent name="F:\Program\ideaproject\partmall\user\user-service-impl\src\main\resources\db\migration" />
+      <recent name="F:\Program\ideaproject\partmall\user" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program\ideaproject\partmall\user\user-service-impl\src\main\resources\db.migration" />
+      <recent name="F:\Program\ideaproject\partmall\user\user-db\src\main\resources\db.migratiom" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserApplication">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="partmall" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="partmall" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.partmall.demo.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-application" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.user.userapplication.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceApiApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-service-api" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.partmall.user.api.UserServiceApiApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:partmall_user@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="182b23a6-7d7d-4350-89b3-4db7d2021ac2" name="Default Changelist" comment="" />
+      <created>1575807854119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575807854119</updated>
+      <workItem from="1575807857041" duration="2674000" />
+      <workItem from="1575810542732" duration="9227000" />
+      <workItem from="1575820590830" duration="4275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="79" y="178" key="#Project_Structure" timestamp="1575820835172">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="79" y="178" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1575820835172" />
+    <state x="72" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575822912386">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="181" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575822912386" />
+    <state x="213" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1575816254798">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="213" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1575816254798" />
+    <state x="293" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1575819857475">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="293" y="230" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575819857475" />
+    <state x="300" y="209" key="FileChooserDialogImpl" timestamp="1575816218194">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="300" y="209" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1575816218194" />
+    <state x="160" y="217" key="NewModule_or_Project.wizard" timestamp="1575811417483">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="160" y="217" key="NewModule_or_Project.wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1575811417483" />
+    <state x="0" y="94" key="SettingsEditor" timestamp="1575821322028">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1575821322028" />
+    <state x="772" y="401" width="375" height="241" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1575823576552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="772" y="401" width="375" height="241" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040@0.0.1920.1040" timestamp="1575823576552" />
+    <state x="93" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1575810052518">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="93" y="100" width="774" height="847" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1575810052518" />
+    <state x="218" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1575818726913">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="218" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1040@0.0.1920.1040" timestamp="1575818726913" />
+    <state x="163" y="258" width="786" height="590" key="find.popup" timestamp="1575823462456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="163" y="258" width="786" height="590" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575823462456" />
+    <state x="0" y="217" width="946" height="599" key="new project wizard" timestamp="1575821084655">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="0" y="217" width="946" height="599" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1575821084655" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1575822441551">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1575822441551" />
+  </component>
+</project>
