@@ -42,7 +42,7 @@
         <springfox-swagger.version>2.9.2</springfox-swagger.version>
         <swagger-bootstrap-ui.version>1.9.3</swagger-bootstrap-ui.version>
         <mybatis-spring-boot-starter.version>2.1.1</mybatis-spring-boot-starter.version>
-        <mybatis.version>3.5.2</mybatis.version>
+        <mybatis.version>3.5.6</mybatis.version>
         <mybatis-plus.version>3.3.0</mybatis-plus.version>
         <xxl-job.version>2.1.1</xxl-job.version>
         <guava.version>28.1-jre</guava.version>
