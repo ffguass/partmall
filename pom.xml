@@ -30,7 +30,7 @@
         <spring-boot-admin-starter-client.version>2.2.1</spring-boot-admin-starter-client.version>
         <!--        <com.alibab.dubbo.version>2.6.5</com.alibab.dubbo.version>-->
         <dubbo.version>2.7.1</dubbo.version>
-        <mysql-connector-java.version>8.0.18</mysql-connector-java.version>
+        <mysql-connector-java.version>8.0.28</mysql-connector-java.version>
         <flyway-core.version>6.0.8</flyway-core.version>
         <druid.version>1.1.21</druid.version>
         <!--        <dubbo-spring-boot-starter.version>0.2.1.RELEASE</dubbo-spring-boot-starter.version>-->
